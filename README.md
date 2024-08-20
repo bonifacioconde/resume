@@ -6,14 +6,6 @@
 
 Experienced iOS Developer skilled in Swift, SwiftUI, UIKit, and Objective-C. Expert in integrating third-party libraries, optimizing performance, and translating requirements into technical specifications. Proficient in Agile methodologies, unit testing, CI/CD, and Git. Committed to delivering high-quality code and exceptional user experiences in a dynamic iOS development role.
 
-## Skills
-
-- **Programming Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Express
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Jenkins
-- **Soft Skills**: Problem-solving, Communication, Team Collaboration
-
 ## Experience
 
 ### iOS Developer
@@ -25,11 +17,13 @@ Experienced iOS Developer skilled in Swift, SwiftUI, UIKit, and Objective-C. Exp
 - Developed custom UI components with animations and transitions to improve user experience
 - Optimized application code to improve the speed and performance of the application
 
+
 ### iOS Developer
 **Browzzin Pte Ltd(Remote)**, Singapore
 *March 2017 - July 2019*
 
 - Developed an iOS application that leverages proprietary web-based deep learning AI technology to enhance the e-commerce capabilities of physical stores.
+
 
 ### iOS Developer
 **UpNixt Pte Ltd(Remote)**, Singapore
